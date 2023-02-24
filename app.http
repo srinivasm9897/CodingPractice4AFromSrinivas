@@ -13,7 +13,7 @@ Content-Type: application/json
 }
 ###
 
-GET http://localhost:3000/players/:playersId/
+GET http://localhost:3000/players/:playersId/1/
 ###
 
 PUT http://localhost:3000/players/:playersId/
